@@ -4,6 +4,6 @@ Developed expertise in data preparation and customer analytics, utilizing transa
 Extended analytical capabilities to identify benchmark stores for conducting uplift testing on trial store layouts, enabling evidence-based decision-making.
 Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed strategic decisions and enhancing commercial applications.
 ### SKILLS
-COMMERCIAL THINKING        COMMUNICATION  SKILLS          DATA ANALYSIS         DATA VALIDATION  
-DATA VISUALISATION         DATA WRANGLING                 PRESENTATION SKILLS    PROGRAMMING       
+COMMERCIAL THINKING   ;     COMMUNICATION  SKILLS    ;      DATA ANALYSIS    ;     DATA VALIDATION  
+DATA VISUALISATION    ;     DATA WRANGLING           ;      PRESENTATION SKILLS  ;  PROGRAMMING       
 STATISTICAL TESTING 
